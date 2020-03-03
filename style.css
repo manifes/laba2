@@ -1,0 +1,35 @@
+body{
+	background: url('nature.jpg') no-repeat;
+	background-size: cover;
+	font-family: Arial;
+	color: purple;
+}
+ul{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+}
+ul li{
+	width: 200px;
+	height: 40px;
+	background-color: white;
+	opacity: .6;
+	line-height: 40px;
+	text-align: center;
+	font-size: 20px;
+	text-decoration: none;
+	display: inline-block;
+	margin: 2px 0;
+}
+ul li:hover{
+	background-color: rosybrown;
+	
+}
+.head {
+    background-color: rgba(255, 255, 255, 0.31);
+    padding: 15px;
+    margin: 10px 0;
+}
+.main {
+	background-color: rgba(255,255,255,.6);
+}
